@@ -1,6 +1,6 @@
 """
 Hackerrank problem: 
-https://www.hackerrank.com/challenges/finding-the-percentage/problem
+https://www.hackerrank.com/challenges/python-lists/problem
 """
 
 if __name__ == '__main__':
