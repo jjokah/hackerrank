@@ -1,3 +1,8 @@
+"""
+Hackerrank Problem:
+https://www.hackerrank.com/challenges/designer-door-mat/problem
+"""
+
 def print_welcome_pattern(M, N):
     pattern = ".|."
     welcome_message = "WELCOME"
