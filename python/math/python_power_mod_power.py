@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Mod Divmod (Python)
+HackerRank Chanllenge: Power - Mod Power (Python)
 https://www.hackerrank.com/challenges/python-power-mod-power/problem
 
 Perform modular exponentiation in Python.
