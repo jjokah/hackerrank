@@ -22,10 +22,10 @@ Ref: https://www.hackerrank.com/domains/python
 - [x] Introduction
 - [x] Basic Data Types
 - [x] Strings
-- [ ]  Sets
-- [ ] Math
-- [ ] itertools
-- [ ] Collections
+- [x]  Sets
+- [x] Math
+- [x] itertools
+- [x] Collections
 - [ ] Date and Time
 - [ ] Errors and Exceptions
 - [ ] Classes
