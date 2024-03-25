@@ -22,7 +22,7 @@ Ref: https://www.hackerrank.com/domains/python
 - [x] Introduction
 - [x] Basic Data Types
 - [x] Strings
-- [x]  Sets
+- [x] Sets
 - [x] Math
 - [x] itertools
 - [x] Collections
