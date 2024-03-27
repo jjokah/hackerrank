@@ -26,7 +26,7 @@ Ref: https://www.hackerrank.com/domains/python
 - [x] Math
 - [x] itertools
 - [x] Collections
-- [ ] Date and Time
+- [x] Date and Time
 - [ ] Errors and Exceptions
 - [ ] Classes
 - [ ] Built-ins
