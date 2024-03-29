@@ -38,7 +38,7 @@ Ref: https://www.hackerrank.com/domains/python
 - [ ] Debugging
 
 Example:
-![hackerrank python challenge](./hackerrank_python_challenge.jpg)
+![hackerrank python challenge](./hackerrank_python_challenge.png)
 
 _
 
