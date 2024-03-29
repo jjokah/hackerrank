@@ -27,8 +27,8 @@ Ref: https://www.hackerrank.com/domains/python
 - [x] itertools
 - [x] Collections
 - [x] Date and Time
-- [ ] Errors and Exceptions
-- [ ] Classes
+- [x] Errors and Exceptions
+- [x] Classes
 - [ ] Built-ins
 - [ ] Python Functionals
 - [ ] Regex and Parsing
@@ -36,6 +36,11 @@ Ref: https://www.hackerrank.com/domains/python
 - [ ] Closures and Decorators
 - [ ] Numpy
 - [ ] Debugging
+
+Example:
+![hackerrank python challenge](./hackerrank_python_challenge.jpg)
+
+_
 
 ## 2. Algorithms
 Ref: https://www.hackerrank.com/domains/algorithms
