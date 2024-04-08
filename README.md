@@ -19,23 +19,23 @@ ___
 ## 1. Python
 Ref: https://www.hackerrank.com/domains/python
 
-- [x] Introduction
-- [x] Basic Data Types
-- [x] Strings
-- [x] Sets
-- [x] Math
-- [x] itertools
-- [x] Collections
-- [x] Date and Time
-- [x] Errors and Exceptions
-- [x] Classes
-- [ ] Built-ins
-- [ ] Python Functionals
-- [ ] Regex and Parsing
-- [ ] XML
-- [ ] Closures and Decorators
-- [ ] Numpy
-- [ ] Debugging
+- [x] **Introduction** (_operators, loops, if-else, function_)
+- [x] **Basic Data Types** (_list, tuple, dictionary, list comprehension_)
+- [x] **Strings** (_split, join, format, alignment, validators_)
+- [x] **Sets** (_add, remove, union, intersection_)
+- [x] **Math** (_round, divmod, math library, cmath library_)
+- [x] **itertools** (_permutation, combination, groupby, product_)
+- [x] **Collections** (_counter, deque, namedtuple_)
+- [x] **Date and Time** (_time delta, calendar module_)
+- [x] **Errors and Exceptions** (_exceptions - try, except_)
+- [x] **Classes** (_built-in methods - double_underscore, overloading_)
+- [x] **Built-ins** (_zipped, sort, eval, any, all_)
+- [x] **Python Functionals** (_map, lambda, reduce, filter_)
+- [ ] **Regex and Parsing**
+- [ ] **XML**
+- [ ] **Closures and Decorators**
+- [ ] **Numpy**
+- [ ] **Debugging**
 
 Example:
 ![hackerrank python challenge](./hackerrank_python_challenge.png)
