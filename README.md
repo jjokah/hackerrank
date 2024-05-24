@@ -31,9 +31,9 @@ Ref: https://www.hackerrank.com/domains/python
 - [x] **Classes** (_built-in methods - double_underscore, overloading_)
 - [x] **Built-ins** (_zipped, sort, eval, any, all_)
 - [x] **Python Functionals** (_map, lambda, reduce, filter_)
-- [ ] **Regex and Parsing** (_re, match, findall, sub, HTMLParser_)
-- [ ] **XML** (_ElementTree, etree, fromstring, getroot_)
-- [ ] **Closures and Decorators** (_inner-func, @wrapper_)
+- [x] **Regex and Parsing** (_re, match, findall, sub, HTMLParser_)
+- [x] **XML** (_ElementTree, etree, fromstring, getroot_)
+- [x] **Closures and Decorators** (_inner-func, @wrapper_)
 - [ ] **Numpy**
 - [ ] **Debugging**
 
