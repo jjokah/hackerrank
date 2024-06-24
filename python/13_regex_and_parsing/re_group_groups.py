@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Group(), Groups() & Groupdict() (Python)
+HackerRank Challenge: Group(), Groups() & Groupdict() (Python)
 https://www.hackerrank.com/challenges/re-group-groups/problem
 
 Using group(), groups(), and groupdict(), find the subgroup(s) of the match.

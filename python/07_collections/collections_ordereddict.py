@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: collections.OrderedDict() (Python)
+HackerRank Challenge: collections.OrderedDict() (Python)
 https://www.hackerrank.com/challenges/py-collections-ordereddict/problem
 
 Print a dictionary of items that retains its order.

@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Re.start() & Re.end() (Python)
+HackerRank Challenge: Re.start() & Re.end() (Python)
 https://www.hackerrank.com/challenges/re-start-re-end/problem
 
 Find the indices of the start and end of the substring matched by the group.

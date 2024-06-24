@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Find the Score (Python)
+HackerRank Challenge: Find the Score (Python)
 https://www.hackerrank.com/challenges/xml-1-find-the-score/problem
 
 """

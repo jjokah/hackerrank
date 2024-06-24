@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Zeros and Ones (Python)
+HackerRank Challenge: Zeros and Ones (Python)
 https://www.hackerrank.com/challenges/np-zeros-and-ones/problem
 
 Print an array using the zeros and ones tools in the NumPy module.

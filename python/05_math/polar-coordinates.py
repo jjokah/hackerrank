@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Polar Coordinates
+HackerRank Challenge: Polar Coordinates
 https://www.hackerrank.com/challenges/polar-coordinates/problem
 
 Convert complex numbers to polar coordinates

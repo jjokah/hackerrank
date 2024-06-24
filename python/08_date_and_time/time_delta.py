@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Time Delta (Python)
+HackerRank Challenge: Time Delta (Python)
 https://www.hackerrank.com/challenges/python-time-delta/problem
 
 Find the absolute time difference.

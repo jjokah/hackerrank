@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: collections.Counter() (Python)
+HackerRank Challenge: collections.Counter() (Python)
 https://www.hackerrank.com/challenges/collections-counter/problem
 
 Use a counter to sum the amount of money earned by the shoe shop owner.

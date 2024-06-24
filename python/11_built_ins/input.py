@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Input() (Python)
+HackerRank Challenge: Input() (Python)
 https://www.hackerrank.com/challenges/input/problem
 
 A Python 2 challenge: Input() is equivalent to eval(raw_input(prompt)).

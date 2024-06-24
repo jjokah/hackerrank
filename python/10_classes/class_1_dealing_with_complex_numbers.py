@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Classes - Dealing with Complex Numbers (Python)
+HackerRank Challenge: Classes - Dealing with Complex Numbers (Python)
 https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem
 
 Create a new data type for complex numbers.

@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Regex Substitution (Python)
+HackerRank Challenge: Regex Substitution (Python)
 https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem
 
 Substitute a string using regex tools.

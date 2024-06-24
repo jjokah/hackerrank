@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: DefaultDict Tutorial (Python)
+HackerRank Challenge: DefaultDict Tutorial (Python)
 https://www.hackerrank.com/challenges/defaultdict-tutorial/problem
 
 Create dictionary value fields with predefined data types.

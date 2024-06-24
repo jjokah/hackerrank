@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: itertools.permutations() (Python)
+HackerRank Challenge: itertools.permutations() (Python)
 https://www.hackerrank.com/challenges/itertools-permutations/problem
 
 Find all permutations of a given size in a given string.

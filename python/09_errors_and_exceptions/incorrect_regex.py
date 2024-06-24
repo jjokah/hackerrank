@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Incorrect Regex (Python)
+HackerRank Challenge: Incorrect Regex (Python)
 https://www.hackerrank.com/challenges/incorrect-regex/problem
 
 Check whether the regex is valid or not.

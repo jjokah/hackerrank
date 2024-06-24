@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Re.split() (Python)
+HackerRank Challenge: Re.split() (Python)
 https://www.hackerrank.com/challenges/re-split/problem
 
 Split the string by the pattern occurrence using the re.split() expression.

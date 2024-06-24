@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Standardize Mobile Number Using Decorators (Python)
+HackerRank Challenge: Standardize Mobile Number Using Decorators (Python)
 https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem
 
 Use decorators to standardize mobile numbers.

@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Company Logo (Python)
+HackerRank Challenge: Company Logo (Python)
 https://www.hackerrank.com/challenges/most-commons/problem
 
 Print the number of character occurrences in descending order.

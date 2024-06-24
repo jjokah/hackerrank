@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Detect HTML Tags, Attributes and Attribute Values (Python)
+HackerRank Challenge: Detect HTML Tags, Attributes and Attribute Values (Python)
 https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem
 
 Parse HTML tags, attributes and attribute values in this challenge.

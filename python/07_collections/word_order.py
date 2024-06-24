@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Word Order (Python)
+HackerRank Challenge: Word Order (Python)
 https://www.hackerrank.com/challenges/word-order/problem
 
 List the number of occurrences of the words in order.

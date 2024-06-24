@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Matrix Script (Python)
+HackerRank Challenge: Matrix Script (Python)
 https://www.hackerrank.com/challenges/matrix-script/problem
 
 Decode the Matrix.

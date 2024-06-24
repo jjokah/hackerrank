@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Validating and Parsing Email Addresses (Python)
+HackerRank Challenge: Validating and Parsing Email Addresses (Python)
 https://www.hackerrank.com/challenges/validating-named-email-addresses/problem
 
 Print valid email addresses according to the constraints.

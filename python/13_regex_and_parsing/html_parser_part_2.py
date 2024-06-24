@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: HTML Parser - Part 2 (Python)
+HackerRank Challenge: HTML Parser - Part 2 (Python)
 https://www.hackerrank.com/challenges/html-parser-part-2/problem
 
 Parse HTML comments and data using HTML Parser.

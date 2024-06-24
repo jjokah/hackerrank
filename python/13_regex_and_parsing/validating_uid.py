@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Detect HTML Tags, Attributes and Attribute Values (Python)
+HackerRank Challenge: Detect HTML Tags, Attributes and Attribute Values (Python)
 https://www.hackerrank.com/challenges/validating-uid/problem
 
 Validate all the randomly generated user identification numbers according to the constraints.

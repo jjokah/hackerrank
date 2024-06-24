@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Arrays (Python)
+HackerRank Challenge: Arrays (Python)
 https://www.hackerrank.com/challenges/np-arrays/problem
 
 Convert a list to an array using the NumPy package.

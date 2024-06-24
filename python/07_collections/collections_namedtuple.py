@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: collections.namedtuple() (Python)
+HackerRank Challenge: collections.namedtuple() (Python)
 https://www.hackerrank.com/challenges/py-collections-namedtuple/problem
 
 You need to turn tuples into convenient containers using collections.namedtuple().

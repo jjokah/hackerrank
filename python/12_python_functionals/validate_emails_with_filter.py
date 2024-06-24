@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Validating Email Addresses With a Filter (Python)
+HackerRank Challenge: Validating Email Addresses With a Filter (Python)
 https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem
 
 This question covers the concept of filters.

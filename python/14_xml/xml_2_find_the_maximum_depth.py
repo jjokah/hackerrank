@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Find the Maximum Depth (Python)
+HackerRank Challenge: Find the Maximum Depth (Python)
 https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem
 
 Find the maximum depth in an XML document.

@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Map and Lambda Function (Python)
+HackerRank Challenge: Map and Lambda Function (Python)
 https://www.hackerrank.com/challenges/map-and-lambda-expression/problem
 
 This challenge covers the basic concept of maps and lambda expressions.

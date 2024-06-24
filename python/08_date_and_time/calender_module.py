@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Calendar Module (Python)
+HackerRank Challenge: Calendar Module (Python)
 https://www.hackerrank.com/challenges/calendar-module/problem
 
 Print the day of a given date.

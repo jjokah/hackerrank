@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Validating Credit Card Numbers (Python)
+HackerRank Challenge: Validating Credit Card Numbers (Python)
 https://www.hackerrank.com/challenges/validating-credit-card-number/problem
 
 Verify whether credit card numbers are valid or not.

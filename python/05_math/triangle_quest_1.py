@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Triangle Quest (Python)
+HackerRank Challenge: Triangle Quest (Python)
 https://www.hackerrank.com/challenges/python-quest-1/problem
 
 Print a numeric triangle of height N-1 using only 2 lines.

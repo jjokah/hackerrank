@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Re.findall() & Re.finditer() (Python)
+HackerRank Challenge: Re.findall() & Re.finditer() (Python)
 https://www.hackerrank.com/challenges/re-findall-re-finditer/problem
 
 Find all the pattern matches using the expressions re.findall() and re.finditer().

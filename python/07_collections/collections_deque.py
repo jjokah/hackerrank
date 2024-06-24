@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: collections.deque() (Python)
+HackerRank Challenge: collections.deque() (Python)
 https://www.hackerrank.com/challenges/py-collections-deque/problem
 
 Perform multiple operations on a double-ended queue or deque.

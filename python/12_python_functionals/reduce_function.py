@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Reduce Function (Python)
+HackerRank Challenge: Reduce Function (Python)
 https://www.hackerrank.com/challenges/reduce-function/problem
 
 Python Practice

@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: itertools.products() (Python)
+HackerRank Challenge: itertools.products() (Python)
 https://www.hackerrank.com/challenges/itertools-product/problem
 
 Find the cartesian product of two lists.

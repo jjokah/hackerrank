@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Athlete Sort (Python)
+HackerRank Challenge: Athlete Sort (Python)
 https://www.hackerrank.com/challenges/python-sort-sort/problem
 
 Sort the table on the kth attribute.

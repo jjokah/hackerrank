@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Concatenate (Python)
+HackerRank Challenge: Concatenate (Python)
 https://www.hackerrank.com/challenges/np-concatenate/problem
 
 Use the concatenate function on 2 arrays.

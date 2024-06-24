@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Validating Postal Code (Python)
+HackerRank Challenge: Validating Postal Code (Python)
 https://www.hackerrank.com/challenges/validating-postalcode/problem
 
 Verify whether postal codes are valid or not.

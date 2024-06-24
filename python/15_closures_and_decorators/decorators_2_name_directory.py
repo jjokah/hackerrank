@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Decorators 2 Name Directory (Python)
+HackerRank Challenge: Decorators 2 Name Directory (Python)
 https://www.hackerrank.com/challenges/decorators-2-name-directory/problem
 
 Use decorators to build a name directory.

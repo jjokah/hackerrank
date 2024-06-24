@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Detect Floating Point Number (Python)
+HackerRank Challenge: Detect Floating Point Number (Python)
 https://www.hackerrank.com/challenges/introduction-to-regex/problem
 
 Validate a floating point number using the regular expression module for Python.

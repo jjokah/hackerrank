@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: HTML Parser - Part 1 (Python)
+HackerRank Challenge: HTML Parser - Part 1 (Python)
 https://www.hackerrank.com/challenges/html-parser-part-1/problem
 
 Parse HTML tags, attributes and attribute values using HTML Parser.

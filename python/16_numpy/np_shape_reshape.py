@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Shape and Reshape (Python)
+HackerRank Challenge: Shape and Reshape (Python)
 https://www.hackerrank.com/challenges/np-shape-reshape/problem
 
 Using the shape and reshape tools available in the NumPy module, configure a list according to the guidelines.

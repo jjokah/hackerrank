@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Any or All (Python)
+HackerRank Challenge: Any or All (Python)
 https://www.hackerrank.com/challenges/any-or-all/problem
 
 Return True, if any of the iterable is true or if all of it is true 

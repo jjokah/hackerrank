@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: itertools.combinations() (Python)
+HackerRank Challenge: itertools.combinations() (Python)
 https://www.hackerrank.com/challenges/itertools-combinations/problem
 
 Print all the combinations of a string using itertools.

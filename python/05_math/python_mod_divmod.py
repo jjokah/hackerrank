@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Mod Divmod (Python)
+HackerRank Challenge: Mod Divmod (Python)
 https://www.hackerrank.com/challenges/python-mod-divmod/problem
 
 Get the quotient and remainder using the divmod operator in Python.

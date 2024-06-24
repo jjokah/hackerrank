@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Validating Phone Numbers (Python)
+HackerRank Challenge: Validating Phone Numbers (Python)
 https://www.hackerrank.com/challenges/validating-the-phone-number/problem
 
 Check whether the given phone number is valid or not.

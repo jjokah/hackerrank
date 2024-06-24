@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Class 2 - Find the Torsional Angle (Python)
+HackerRank Challenge: Class 2 - Find the Torsional Angle (Python)
 https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem
 
 Find the angle between two planes.

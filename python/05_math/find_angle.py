@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Find Angle MBC (Python)
+HackerRank Challenge: Find Angle MBC (Python)
 https://www.hackerrank.com/challenges/find-angle/problem
 
 Find the desired angle in the right triangle.

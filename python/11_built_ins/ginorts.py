@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: ginortS(Python)
+HackerRank Challenge: ginortS(Python)
 https://www.hackerrank.com/challenges/ginorts/problem
 
 An uneasy sort.

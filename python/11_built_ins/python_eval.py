@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Input() (Python)
+HackerRank Challenge: Input() (Python)
 https://www.hackerrank.com/challenges/python-eval/problem
 
 Evaluate the expressions in Python using the expression eval().

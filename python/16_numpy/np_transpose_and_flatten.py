@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Transpose and Flatten (Python)
+HackerRank Challenge: Transpose and Flatten (Python)
 https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem
 
 Use the transpose and flatten tools in the NumPy module to manipulate an array.

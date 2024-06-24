@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Exceptions (Python)
+HackerRank Challenge: Exceptions (Python)
 https://www.hackerrank.com/challenges/exceptions/problem
 
 Handle errors detected during execution.

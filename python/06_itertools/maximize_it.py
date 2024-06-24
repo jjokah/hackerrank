@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Maximize It! (Python)
+HackerRank Challenge: Maximize It! (Python)
 https://www.hackerrank.com/challenges/maximize-it/problem
 
 Find the maximum possible value out of the equation provided.

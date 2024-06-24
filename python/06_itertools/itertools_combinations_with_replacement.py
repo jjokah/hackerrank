@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: itertools.combinations_with_replacement() (Python)
+HackerRank Challenge: itertools.combinations_with_replacement() (Python)
 https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem
 
 Find all the combinations of a string with replacements.

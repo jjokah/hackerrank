@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Validating Roman Numerals (Python)
+HackerRank Challenge: Validating Roman Numerals (Python)
 https://www.hackerrank.com/challenges/validate-a-roman-number/problem
 
 Use regex to validate Roman numerals.

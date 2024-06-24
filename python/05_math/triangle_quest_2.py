@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Triangle Quest 2 (Python)
+HackerRank Challenge: Triangle Quest 2 (Python)
 https://www.hackerrank.com/challenges/triangle-quest-2/problem
 
 Create a palindromic triangle.

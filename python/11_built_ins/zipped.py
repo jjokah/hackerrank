@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Zipped!(Python)
+HackerRank Challenge: Zipped!(Python)
 https://www.hackerrank.com/challenges/zipped/problem
 
 Compute the average by zipping data.

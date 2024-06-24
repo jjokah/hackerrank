@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Compress the String! (Python)
+HackerRank Challenge: Compress the String! (Python)
 https://www.hackerrank.com/challenges/compress-the-string/problem
 
 groupby()

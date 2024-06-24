@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Piling Up! (Python)
+HackerRank Challenge: Piling Up! (Python)
 https://www.hackerrank.com/challenges/piling-up/problem
 
 Create a vertical pile of cubes.

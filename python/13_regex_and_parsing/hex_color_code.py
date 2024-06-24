@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Hex Color Code (Python)
+HackerRank Challenge: Hex Color Code (Python)
 https://www.hackerrank.com/challenges/hex-color-code/problem
 
 Validate Hex color codes in CSS.

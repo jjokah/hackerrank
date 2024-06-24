@@ -1,5 +1,5 @@
 """
-HackerRank Chanllenge: Iterables and Iterators (Python)
+HackerRank Challenge: Iterables and Iterators (Python)
 https://www.hackerrank.com/challenges/iterables-and-iterators/problem
 
 Find the probability using itertools.
