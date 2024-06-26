@@ -19,4 +19,4 @@ print(numpy.mean(np_array, axis=1))
 print(numpy.var(np_array, axis=0))
 print(round(numpy.std(np_array), 11))
 
-# Note: to pass the test "std value" has to be rounded to 11 decimal placess
+# Note: to pass the test std value has to be rounded to 11 decimal placess
