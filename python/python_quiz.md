@@ -1,5 +1,8 @@
 ## Python (Programming Language)
 
+Ref:
+https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/python/python-quiz.md
+
 #### Q1. What is an abstract class?
 
 - [ ] An abstract class is the name for any class from which you can instantiate an object.
@@ -2685,7 +2688,3 @@ The code defines a `square` function to calculate the square of a number. It the
 - [ ] Hello {name1} and {name2}
 - [ ] Error
 - [ ] Hello and
-
-
-Ref:
-https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/python/python-quiz.md
