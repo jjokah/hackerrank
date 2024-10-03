@@ -9,7 +9,7 @@ Developers can
 - get certifications and 
 - connect with tech recruiters.
 
-![hackerrank website](./hackerrank.png)
+![hackerrank website](./hkr.png)
 ___
 
 **_This repository contains my personal solution on HackerRank Challenges:_**
@@ -34,11 +34,11 @@ Ref: https://www.hackerrank.com/domains/python
 - [x] **Regex and Parsing** (_re, match, findall, sub, HTMLParser_)
 - [x] **XML** (_ElementTree, etree, fromstring, getroot_)
 - [x] **Closures and Decorators** (_inner-func, @wrapper_)
-- [ ] **Numpy**
-- [ ] **Debugging**
+- [x] **Numpy**
+- [x] **Debugging**
 
 Example:
-![hackerrank python challenge](./hackerrank_python_challenge.png)
+![hackerrank python challenge](./hkr_py.png)
 
 _
 
