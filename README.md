@@ -3,16 +3,16 @@
 HackerRank is a platform where developers can hone their problem-solving skills in various domains such as Algorithms, Mathematics, Data Structures, AI, and more. 
 
 Developers can 
-- participate in coding contests, 
-- practice challenges, 
-- prepare for coding interview, 
-- get certifications and 
-- connect with tech recruiters.
+- **Prepare**: Practice coding.
+- **Certify**: Earn skill-based certifications.
+- **Compete**: Participate in coding contests.
+- **Apply**: Find jobs opportunities.
+
 
 ![hackerrank website](./hkr.png)
 ___
 
-**_This repository contains my personal solution on HackerRank Challenges:_**
+**_This repository contains jjokah's solution to HackerRank Challenges:_**
 
 ### CHALLENGES:
 
@@ -34,8 +34,8 @@ Ref: https://www.hackerrank.com/domains/python
 - [x] **Regex and Parsing** (_re, match, findall, sub, HTMLParser_)
 - [x] **XML** (_ElementTree, etree, fromstring, getroot_)
 - [x] **Closures and Decorators** (_inner-func, @wrapper_)
-- [x] **Numpy**
-- [x] **Debugging**
+- [x] **Numpy** (_matrix - reshape, transpose, linear algebra_)
+- [x] **Debugging** (_test, debug, re-run_)
 
 Example:
 ![hackerrank python challenge](./hkr_py.png)
