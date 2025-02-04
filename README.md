@@ -1,6 +1,6 @@
 # HackerRank
 
-HackerRank is platform where developers can hone their problem-solving skills in various domains such as Algorithms, Mathematics, Data Structures, AI, and more. 
+HackerRank is a platform where developers can hone their problem-solving skills in various domains such as Algorithms, Mathematics, Data Structures, AI, and more. 
 
 Developers can 
 - participate in coding contests, 
